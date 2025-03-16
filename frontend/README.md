@@ -1,6 +1,3 @@
-# LMS
-Automayted self-paced learning system for Bitshala Study Cohorts
-
 # frontend
 ### Compile and Hot-Reload for Development
 
