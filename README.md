@@ -1,5 +1,5 @@
 # LMS
-Automayted self-paced learning system for Bitshala Study Cohorts
+staging area for the LMS project. Very much WIP. Refer to [overview](overview.md) for the basic idea.
 
 # frontend
 ### Compile and Hot-Reload for Development
